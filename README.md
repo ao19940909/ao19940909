@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-<h1 align="center">Hi, I am Denys Karpii, a Game Developer/3D Artist.
+<h1 align="center">Hi, I am Andreas Odesse, a Game Developer/3D Artist.
   <div align="center">
     <a href="#">
       <img src="https://readme-typing-svg.herokuapp.com?lines=Senior%20Unity%20Game%20Developer;Creative%20Idea,%20Passionate%20Development;Readable,%20Maintainable%20and%20Scalable%20Code;Innovator%20in%20crafting%20solutions;Architect%20of%20scalable%20systems;Mentorship%20and%20empowerment;Problem-solving%20prowess;Adaptability%20in%20dynamic%20environments;Seamless%20collaboration%20across%20teams;Full%20lifecycle%20expertise;Championing%20coding%20standards;Polished%20deliverables;Leading%20with%20innovation&center=true&width=500&height=50">
@@ -10,7 +10,7 @@
 
 <div align="center"> 
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=DenysKarpii&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ao19940909&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
   </a> 
 </div>
 
@@ -19,9 +19,11 @@
 
 ###
 
-Seasoned developer with 5+ years of experience in software development, is professional with Unity Game Development, Front End Development and 3D Artistry. 
+I am a passionate Unity Game Developer with 7+ years of industry expertise, offering a proven history of developing high-quality games including indie games, AAA games and VR games for PC, mobile, and console platforms. 
 
-With a solid foundation of computer science and concept art, focus on the creating and developing immersive world of game and website. Passionate in coming up with new idea and learning new techniques to empower my stack and skills.
+Have extensive experience with Unity3D in designing game mechanics, implementing game features, and optimizing performance. This experience encompasses every facet of game creation, from programming and design to comprehensive project management. 
+
+I've excelled as a talented Game Developer, pioneering innovation and collaborating with cross-functional teams to meet and exceed development objectives.
 
 <!-- This is test -->
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
